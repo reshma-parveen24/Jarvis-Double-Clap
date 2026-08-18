@@ -25,7 +25,6 @@ Jarvis-Double-Clap/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── .env.example
 ```
 
 ## ⚙️ Requirements
